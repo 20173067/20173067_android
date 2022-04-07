@@ -9,3 +9,10 @@
 <img width="" height="" src="./pic/3주차_네이버.PNG"> </img>
 <img width="" height="" src="./pic/3주차_전화걸기.PNG"> </img>
 
+
+### 5주차 과제
+
+<img width="" height="" src="./pic/5주차_1.PNG"> </img>
+<img width="" height="" src="./pic/5주차_2.PNG"> </img>
+<img width="" height="" src="./pic/5주차_3.PNG"> </img>
+<img width="" height="" src="./pic/5주차_4.PNG"> </img>
