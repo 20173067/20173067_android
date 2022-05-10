@@ -19,6 +19,6 @@
 
 ### 10주차 과제
 
-<img width="" height="" src="./pic/10주차_1.PNG"> </img>
-<img width="" height="" src="./pic/10주차_2.PNG"> </img>
-<img width="" height="" src="./pic/10주차_3.PNG"> </img>
+<img width="" height="" src="./pic/10주차_1.png"> </img>
+<img width="" height="" src="./pic/10주차_2.png"> </img>
+<img width="" height="" src="./pic/10주차_3.png"> </img>
