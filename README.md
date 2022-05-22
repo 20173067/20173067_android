@@ -32,3 +32,9 @@
 <img width="" height="" src="./pic/10주차_1.png"> </img>
 <img width="" height="" src="./pic/10주차_2.png"> </img>
 <img width="" height="" src="./pic/10주차_3.png"> </img>
+
+
+### 11주차 과제
+-코드는 맞게 입력했는데 실행이 안 됩니다
+
+<img width="" height="" src="./pic/11주차_1.png"> </img>
